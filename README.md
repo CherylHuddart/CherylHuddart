@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Cheryl, I'm a brand new Tech Elevator student. I'm also a newbie to coding in general so go easy on me!
+
+I think continuing to learn new things and be challenged are the things that keep life exciting so I'm really looking forward to embarking on this journey.
+
+When I'm not working on this or my current day job I'm usually spending time with my dog, friends, family, or any combination of those things.
 <!--
 **CherylAspinwall/CherylAspinwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! My name is Cheryl, I'm a brand new Tech Elevator student. I'm also a newbie to coding in general so go easy on me!
-
-I think continuing to learn new things and be challenged are the things that keep life exciting so I'm really looking forward to embarking on this journey.
-
-When I'm not working on this or my current day job I'm usually spending time with my dog, friends, family, or any combination of those things.
