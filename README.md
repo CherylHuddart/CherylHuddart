@@ -1,12 +1,15 @@
-### Hi there 👋
+###  Hi, I’m Cheryl! After a successful career as a hairstylist and salon owner, I decided it was time for a new challenge—one that lets me solve puzzles and build things in a whole new way. I recently graduated from Tech Elevator and am now diving into the world of software development with the same creativity, adaptability, and problem-solving mindset that made me successful in my first career.
 
-My name is Cheryl, I'm a brand new Tech Elevator student. I'm also a newbie to coding in general so go easy on me!
+One of my biggest strengths has always been my ability to connect with people—whether it’s understanding a client’s vision or collaborating on a team. I love writing code, but I also love communicating ideas clearly, working with others, and creating solutions that make an impact.
 
-I think continuing to learn new things and be challenged are the things that keep life exciting so I'm really looking forward to embarking on this journey.
+What I’m working on:
 
-When I'm not working on this or my current day job I'm usually spending time with my dog, friends, family, or any combination of those things.
+Sharpening my skills in Java, Spring Boot, SQL, JavaScript, and React
+Building projects that are both functional and user-friendly
+Learning, growing, and embracing every challenge along the way
+Always open to new opportunities, collaborations, and great conversations—let’s connect!
 <!--
-**CherylAspinwall/CherylAspinwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CherylHuddart/CherylHuddart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
